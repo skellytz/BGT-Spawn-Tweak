@@ -3,7 +3,7 @@ SUPPORT ~https://github.com/skellytz/BGT-Spawn-Tweak~
 VERSION ~v1.0~
 README  ~spawntweak/config.ini~
 AUTO_EVAL_STRINGS
-LANGUAGE ~English~ ~en_US~ ~spawntweak/lang/en_US/setup.tra~
+LANGUAGE ~English~ ~english~ ~spawntweak/tra/english/setup.tra~
 
 // BGT Spawn Tweak
 BEGIN @100 DESIGNATED 100 REQUIRE_PREDICATE (GAME_IS ~bgt~) @1 INCLUDE ~spawntweak/lib/functions.tpa~ SILENT
